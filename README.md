@@ -1,2 +1,2 @@
 # ResNet50
-Reproduce ResNet50 model
+Reproduce the ResNet50 model
